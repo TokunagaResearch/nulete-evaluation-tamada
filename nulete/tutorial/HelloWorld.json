@@ -1,0 +1,24 @@
+[
+  {
+    "method": "main",
+    "args": [
+      []
+    ]
+  },
+  {
+    "method": "run",
+    "args": [
+      [
+        "Yamada"
+      ]
+    ]
+  },
+  {
+    "method": "run",
+    "args": [
+      [
+        "Tanaka"
+      ]
+    ]
+  }
+]

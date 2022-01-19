@@ -1,0 +1,8 @@
+HelloWorld.javaを採点する正誤判定プログラムHelloWorldTest.javaをディレクトリsrc/test/java/に作成せよ
+
+mainメソッドについて，以下の動作が模範解答プログラムと一致するかをチェックするmainTestメソッドを作成せよ
+  * 引数なしで実行
+
+runメソッドについて，以下の動作が模範解答プログラムと一致するかをチェックするrunTestメソッドを作成せよ
+  * 引数["Yamada"]で実行
+  * 引数["Tanaka"]で実行
